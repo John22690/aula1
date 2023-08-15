@@ -1,0 +1,32 @@
+
+body{
+    
+    background-image: url("https://mediacloud.theweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1608614622/p4pf7m.jpg");
+    color: black;
+    background-size: cover;
+}
+button{
+    border-radius: 5px;
+    background-color: #000000;
+    color: white;
+    width: 250px;
+    height: 40px;
+}input{
+    border-radius: 8px;
+    border-style: dotted 1px;
+}
+label{
+    font-weight: bold;
+    font-size: x-large;
+}
+#resposta{
+    font-size: x-large;
+    font-weight: 900;
+    text-shadow: 2px 2px 4px white;
+}
+.atividades{
+    text-align: center;
+}
+.botaoimagem{
+    text-align: center;
+}

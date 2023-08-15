@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-image: url("https://t.ctcdn.com.br/atyCbnvc-AKOSwfCCHVQ94vQVes=/0x167:1620x1079/1400x788/smart/i330461.jpeg");
+    color: white;
+    background-size: cover;
+}
+
+button{
+    border-radius: 5px;
+    background-color: #000000;
+    color: white;
+    width: 250px;
+    height: 40px;
+
+}
